@@ -1,1 +1,1 @@
-Initial
+Simple structure editor. 
